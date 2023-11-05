@@ -1,0 +1,15 @@
+C:\Users\manum\RiderProjects\Pildoras\Pildoras\bin\Debug\net7.0\Pildoras.exe
+C:\Users\manum\RiderProjects\Pildoras\Pildoras\bin\Debug\net7.0\Pildoras.deps.json
+C:\Users\manum\RiderProjects\Pildoras\Pildoras\bin\Debug\net7.0\Pildoras.runtimeconfig.json
+C:\Users\manum\RiderProjects\Pildoras\Pildoras\bin\Debug\net7.0\Pildoras.dll
+C:\Users\manum\RiderProjects\Pildoras\Pildoras\bin\Debug\net7.0\Pildoras.pdb
+C:\Users\manum\RiderProjects\Pildoras\Pildoras\obj\Debug\net7.0\Pildoras.csproj.AssemblyReference.cache
+C:\Users\manum\RiderProjects\Pildoras\Pildoras\obj\Debug\net7.0\Pildoras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manum\RiderProjects\Pildoras\Pildoras\obj\Debug\net7.0\Pildoras.AssemblyInfoInputs.cache
+C:\Users\manum\RiderProjects\Pildoras\Pildoras\obj\Debug\net7.0\Pildoras.AssemblyInfo.cs
+C:\Users\manum\RiderProjects\Pildoras\Pildoras\obj\Debug\net7.0\Pildoras.csproj.CoreCompileInputs.cache
+C:\Users\manum\RiderProjects\Pildoras\Pildoras\obj\Debug\net7.0\Pildoras.dll
+C:\Users\manum\RiderProjects\Pildoras\Pildoras\obj\Debug\net7.0\refint\Pildoras.dll
+C:\Users\manum\RiderProjects\Pildoras\Pildoras\obj\Debug\net7.0\Pildoras.pdb
+C:\Users\manum\RiderProjects\Pildoras\Pildoras\obj\Debug\net7.0\Pildoras.genruntimeconfig.cache
+C:\Users\manum\RiderProjects\Pildoras\Pildoras\obj\Debug\net7.0\ref\Pildoras.dll
